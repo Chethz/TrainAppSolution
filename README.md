@@ -4,9 +4,9 @@ This project provides a oneway rail network which connects number of towns. Appl
 
 Getting Started Clone or download the repository from git hub. Application built on .Net Core version 2.2 and used nUnit frmawork for unit testing.
 
-Prerequisites Visual studio (I used Visual Studio Community 2019) nUnit for unit testing
-
-Give examples
+Prerequisites 
+Visual studio (I used Visual Studio Community 2019) 
+nUnit for unit testing
 
 Running application
 
@@ -22,11 +22,11 @@ From option 2 - 7 application will provide different options for user
 
 Option 2:
 
-Option 2 will print distance for gien route if it exists. Route sohould be destination seperated by -. Input example : A-B-C
+Option 2 will print distance for given route if it exists. Route should be destination seperated by -. Input example : A-B-C
 
-Option 3: Option 3 will provide number of trips starting and end at C with maximum of 3 steps.
+Option 3: Option 3 will provide number of trips starting and ending at C with maximum of 3 steps.
 
-Option 4: Option 4 will provide number of trips starting at A and ending at C wih exactly 4 stops.
+Option 4: Option 4 will provide number of trips starting at A and ending at C with exactly 4 stops.
 
 Option 5: Option 5 will provide shortest route from A to C
 
@@ -36,14 +36,8 @@ Option 7: Option 7 will provide different routes from C to C with a distance of 
 
 Error: In each step if inputs are not correct it will throw error with message. Please read them and provide correct inputs.
 
-Running the tests Explain how to run the automated tests for this system
+Built With 
+.Net Core
+nUmit Framework
 
-Break down into end to end tests Explain what these tests test and why
-
-Give an example And coding style tests Explain what these tests test and why
-
-Give an example Deployment Add additional notes about how to deploy this on a live system
-
-Built With .Net Core - version nUmit Framework - version
-
-Author Chethiya Wijesinghe (Cheth)
+Author : Chethiya Wijesinghe (Cheth)
