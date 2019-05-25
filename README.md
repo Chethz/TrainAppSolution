@@ -37,7 +37,7 @@ Option 7: Option 7 will provide different routes from C to C with a distance of 
 Error: In each step if inputs are not correct it will throw error with message. Please read them and provide correct inputs.
 
 Built With 
-.Net Core
-nUmit Framework
+.Net Core,
+nUnit Framework
 
 Author : Chethiya Wijesinghe (Cheth)
