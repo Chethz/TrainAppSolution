@@ -47,5 +47,3 @@ Give an example Deployment Add additional notes about how to deploy this on a li
 Built With .Net Core - version nUmit Framework - version
 
 Author Chethiya Wijesinghe (Cheth)
-
-Acknowledgments Hat tip to anyone whose code was used Inspiration etc
